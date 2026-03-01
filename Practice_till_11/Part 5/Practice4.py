@@ -1,0 +1,1 @@
+# Pattern problems (square, pyramid, hollow square).
